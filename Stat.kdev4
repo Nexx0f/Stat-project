@@ -1,0 +1,4 @@
+[Project]
+Name=Stat
+Manager=KDevCMakeManager
+VersionControl=kdevgit
